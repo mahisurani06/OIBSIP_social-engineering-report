@@ -1,8 +1,8 @@
-\# Social Engineering Attacks Research Report
+## Social Engineering Attacks Research Report
 
 
 
-\# Overview
+## Overview
 
 This repository contains a detailed cybersecurity research report on social engineering attacks created as part of a Security Analyst Internship program.
 
@@ -12,7 +12,7 @@ The report focuses on how cybercriminals exploit human psychology through techni
 
 
 
-\# Objective
+## Objective
 
 
 
@@ -28,7 +28,7 @@ The objective of this project is to:
 
 
 
-\# Topics Covered
+## Topics Covered
 
 
 
@@ -58,7 +58,7 @@ The objective of this project is to:
 
 
 
-\# Real-World Case Studies Included
+## Real-World Case Studies Included
 
 
 
@@ -74,7 +74,7 @@ The objective of this project is to:
 
 
 
-\# Files Included
+## Files Included
 
 
 
@@ -82,7 +82,7 @@ social\_engineering\_report.md  which contain Detailed research report on social
 
 
 
-\# Key Learning Outcomes
+## Key Learning Outcomes
 
 
 
@@ -100,7 +100,7 @@ social\_engineering\_report.md  which contain Detailed research report on social
 
 
 
-\# Technologies \& Concepts
+## Technologies \& Concepts
 
 
 
@@ -118,7 +118,7 @@ social\_engineering\_report.md  which contain Detailed research report on social
 
 
 
-\# Repository Purpose
+## Repository Purpose
 
 
 
@@ -126,7 +126,7 @@ This repository was created for educational and internship purposes to demonstra
 
 
 
-\# Author
+## Author
 
 Security Analyst Intern-Mahi Surani
 
