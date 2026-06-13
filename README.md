@@ -128,7 +128,11 @@ This repository was created for educational and internship purposes to demonstra
 
 ## Author
 
-Security Analyst Intern-Mahi Surani
+Mahi Surani
+
+GitHub: https://github.com/mahisurani06
+
+LinkedIn: https://www.linkedin.com/in/mahi-surani-9bab5333b/
 
 
 
